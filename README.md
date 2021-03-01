@@ -1,19 +1,13 @@
 ### Hi guys! Welcome to my developer profile 👋
 
-I have 21 years old, and 
-I'm a studant of systems analysis and development.
+I have 21 years old, and I’m studant of systems analysis and development.
 
-Web developer with technologies like PHP and JavaScript,
-and front-end develop with HTML5, CSS3, Bootstrap and Angular + Material
+I’m web developer since 2018 with PHP and MySQL database, <br/>
+and front-end develop with HTML5, CSS3 and Bootstrap.
 
-My personal web page is loading... but my LinkedIn can be found here[htpps://linked.in/felipe-wesley]
+- ⚡ I’m currently learning Angular + Material Design and back-end with C# .NET
+- ⚡ Fun fact: I begin to program with Pascal - hahaha.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My personal web page is loading... but my LinkedIn can be find [here][htpps://linked.in/felipe-wesley].
+
+Regards 👋
