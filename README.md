@@ -6,9 +6,9 @@ I’m web developer since 2018 with PHP and MySQL database,
 and front-end develop with HTML5, CSS3 and Bootstrap.
 
 - ⚡ I’m currently learning Angular + Material Design and back-end with C# .NET
-- ⚡ Fun fact: I begin to program with Pascal - hahaha.
+- ⚡ Fun fact: I started programming with Pascal - hahaha.
 
-My personal web page is loading... but my LinkedIn can be find [here][1].
+My personal web page is loading... but my LinkedIn can be find [here](htpps://linkedin/in/felipe-wesley).
 
 Regards 👋
 
