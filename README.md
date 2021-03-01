@@ -10,6 +10,6 @@ and front-end develop with HTML5, CSS3 and Bootstrap.
 
 My personal web page is loading... but my LinkedIn can be find [here][1].
 
-[1]: htpps://linked.in/felipe-wesley
-
 Regards 👋
+
+   [1]: htpps://linked.in/felipe-wesley
