@@ -1,6 +1,6 @@
 ### Hi guys! Welcome to my developer profile :man_technologist:
 
-I have 21 years old, and I’m studant of systems analysis and development. :mortar_board:
+I'm 21 years old, and I’m studant of systems analysis and development. :mortar_board:
 
 I’m web developer since 2017 with PHP language (:heart_eyes:) and MySQL database, 
 and front-end develop with HTML5, CSS3, pure JavaScript, jQuery and Bootstrap.
