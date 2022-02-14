@@ -1,4 +1,4 @@
-### Hi guys! Welcome to my developer profile :man_technologist:
+### Hi guys! Welcome to my programmer profile :man_technologist:
 
 I'm 21 years old, and I’m graduated (Dec 2021) from systems analysis and development. :mortar_board:
 
