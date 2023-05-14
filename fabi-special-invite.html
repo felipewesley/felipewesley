@@ -29,6 +29,7 @@
             width: 100vw;
             height: 100vh;
             overflow: hidden;
+            padding: 5px;
         }
         .no-attemps {
             display: flex;
@@ -84,21 +85,26 @@
         .text-sm {
             font-size: 0.7rem;
         }
+        .text-center {
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+        }
     </style>
 </head>
 <body>
     
     <main id="main">
-        <p>
-            <small class="text-sm">
+        <p class="text-center">
+            <small class="text-sm text-center">
                 Fabiana | Convite especial
             </small>
         </p>
-        <p>
+        <p class="text-center">
             Seria do seu agrado a minha companhia para tomar um café?
         </p>
-        <p>
-            <small class="text-sm">
+        <p class="text-center">
+            <small class="text-sm text-center">
                 Este convite inclui um pão de queijo, uma caminhada e um cheiro no pescoço, tudo com o intuito de matar a saudade.
             </small>
         </p>
@@ -160,6 +166,8 @@
                     if (showAttempsCounter == 10) {
                         sessionStorage.removeItem(SURVEY_COMPLETED_FLAG_NAME);
                         sessionStorage.removeItem(REFUSE_ATTEMPLS_KEY_NAME);
+
+                        location.reload();
                     }
                 }
 
