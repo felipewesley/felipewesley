@@ -1,29 +1,4 @@
-import { SONG_KEY, SONGS_FOLDER_URL, BACKGROUND_ANIMATION_INTERVAL } from "./constants.js";
-
-/**
- * @param {number} currentState 
- */
-export function registerBackgroundAnimation(currentState) {
-
-    const PRIMARY_BG = ['from-green-400', 'to-blue-500'];
-    const SECONDARY_BG = ['from-red-400', 'to-purple-500'];
-
-    setInterval(() => {
-
-        console.log(currentState);
-
-        if (currentState % 2 == 0) {
-            document.body.classList.add(...PRIMARY_BG);
-            document.body.classList.remove(...SECONDARY_BG);
-        } else {
-            document.body.classList.add(...SECONDARY_BG);
-            document.body.classList.remove(...PRIMARY_BG);
-        }
-
-        currentState++;
-
-    }, BACKGROUND_ANIMATION_INTERVAL);
-};
+import { SONG_KEY, SONGS_FOLDER_URL } from "./constants.js";
 
 /**
  * @returns {string|null}

@@ -1,5 +1,5 @@
 import { SONGS_LIST_URL, SONGS_FOLDER_URL, SONG_COVERS_FOLDER_URL, SONG_KEY, SONG_NOT_SUPPORTED_MESSAGE, SONG_BTN_PLAY_ICONS } from "./constants.js";
-import { getAppSongElement, getAppSongCoverElement, getSongIdFromSearch, getSelectedSong, registerBackgroundAnimation, setSongCurrentTime, setSongTotalTime } from "./functions.js";
+import { getAppSongElement, getAppSongCoverElement, getSongIdFromSearch, getSelectedSong, setSongCurrentTime, setSongTotalTime } from "./functions.js";
 
 const songId = getSongIdFromSearch();
 
@@ -10,7 +10,6 @@ const songAuthorEl = document.getElementById('song-author');
 const songBtnPlay = document.getElementById('song-btn-play');
 
 let currentBackground = 0;
-// registerBackgroundAnimation(currentBackground);
 
 document.getElementById('choose-song-btn').onclick = () => {
 
