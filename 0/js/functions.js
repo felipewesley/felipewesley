@@ -26,7 +26,7 @@ export function getSongIdFromSearch() {
 export function getSelectedSong(songId, songs) {
 
     const song = songs
-        .find(s => s.id == songId);
+        .find(s => s.id.toLowerCase() == songId.toLowerCase());
 
     if (!song) {
         return Promise.resolve();

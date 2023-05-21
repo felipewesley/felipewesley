@@ -34,5 +34,29 @@
         "cover": {
             "format": "jpg"
         }
+    },
+    {
+        "id": "fabiana",
+        "name": "Seu doutor - Luan Santana",
+        "author": "Curtida por Fabiana",
+        "audio": {
+            "format": "mp3",
+            "mimeType": "audio/mp3"
+        },
+        "cover": {
+            "format": "jpg"
+        }
+    },
+    {
+        "id": "felipe",
+        "name": "Celta",
+        "author": "Luan Santana",
+        "audio": {
+            "format": "mp3",
+            "mimeType": "audio/mp3"
+        },
+        "cover": {
+            "format": "jpg"
+        }
     }
 ]
