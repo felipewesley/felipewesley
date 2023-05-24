@@ -82,5 +82,17 @@
         "cover": {
             "format": "jpg"
         }
+    },
+    {
+        "id": "l",
+        "name": "Insônia",
+        "author": "Ludmilla & Marília Mendonça",
+        "audio": {
+            "format": "mp3",
+            "mimeType": "audio/mp3"
+        },
+        "cover": {
+            "format": "jpg"
+        }
     }
 ]
